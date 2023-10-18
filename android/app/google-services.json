@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994346698683",
+    "firebase_url": "https://sports-predictions-app-default-rtdb.firebaseio.com",
+    "project_id": "sports-predictions-app",
+    "storage_bucket": "sports-predictions-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994346698683:android:91118238ae556b564aa69e",
+        "android_client_info": {
+          "package_name": "com.example.deveflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994346698683-e8tam8qbpda5eu7l904l1r673qtub694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2c4aZuzeNhDr11pPDzVbYcGKQO-sBoo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994346698683-e8tam8qbpda5eu7l904l1r673qtub694.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994346698683-qpvj2urc248hvupghf9avu5o027f6ru6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deveflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
